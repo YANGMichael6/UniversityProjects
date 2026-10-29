@@ -5,4 +5,6 @@ Here you can discover some projects I did during my first year of Computer Scien
 
 The projects were essentially developed using the MrPython programming environment (a statically typed subset of Python with also built-in and predefined functions added : https://nohtyprm.github.io/MrPython).
 
+Most of these Projects were developped with the help of a classmate and friend of mine at the university.
+
 One Project used LaTex to develop a short Bibliography and research report, accompanied by Beamer presentations.
