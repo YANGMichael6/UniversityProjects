@@ -1,1 +1,8 @@
+# First year of a Bachelor's degree
 
+## What's there ?
+Here you can discover some projects I did during my first year of Computer Science and Mathematics.
+
+The projects were essentially developed using the MrPython programming environment (a statically typed subset of Python with also built-in and predefined functions added : https://nohtyprm.github.io/MrPython).
+
+One Project used LaTex to develop a short Bibliography and research report, accompanied by Beamer presentations.
