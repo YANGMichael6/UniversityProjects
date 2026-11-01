@@ -1,2 +1,4 @@
 # Projets-Universitaires
-Academic projects developed as part of my university coursework.
+
+## Description
+Academic Projects and Activities developed as part of my university coursework.
