@@ -1,4 +1,4 @@
-# First year of a Bachelor's degree
+# First year of Bachelor's degree
 
 ## Description
 - Here you can discover some projects or activities I did during my first year of Computer Science and Mathematics (September 2025 - June 2026).
