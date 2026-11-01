@@ -1,6 +1,6 @@
 # First year of a Bachelor's degree
 
-## What's there ?
+## Description
 - Here you can discover some projects or activities I did during my first year of Computer Science and Mathematics (September 2025 - June 2026).
 
 - The projects were essentially developed using the MrPython programming environment (a statically typed subset of Python with also built-in and predefined functions added : https://nohtyprm.github.io/MrPython).
